@@ -5,8 +5,8 @@ Política de Privacidade Skill Creatina Check para Alexa
 Última atualização: 16 de fevereiro de 2023
 
 1. Introdução e quem somos
-A skill "Creatina Check" tem como política respeitar sua privacidade quanto aos dados pessoais que possamos coletar quando você usar a funcionalidade da Alexa. Assim, esta política de privacidade serve para que você entenda como coletamos, usamos, comunicamos, divulgamos e usamos seus dados pessoais.
-Incentivo você a ler este documento atentamente, do começo ao fim; se tiver alguma dúvida, envie um email para creatinacheck@gmail.com.
+A skill "Creatina diaria" tem como política respeitar sua privacidade quanto aos dados pessoais que possamos coletar quando você usar a funcionalidade da Alexa. Assim, esta política de privacidade serve para que você entenda como coletamos, usamos, comunicamos, divulgamos e usamos seus dados pessoais.
+Incentivo você a ler este documento atentamente, do começo ao fim; se tiver alguma dúvida, envie um email para joaosilnei2@gmail.com.
 
 2. O que a skill coleta e qual sua finalidade
 2.1 Funcionalidade para Amazon Alexa
